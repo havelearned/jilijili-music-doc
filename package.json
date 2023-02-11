@@ -6,7 +6,7 @@
   "name": "jilijili-music-doc",
   "version": "v2.0.0-beta.60",
   "main": "index.js",
-  "repository": "https://github.com/havelearned/jilijili-music-doc",
+  "repository": "https://havelearned.github.io/jilijili-music-doc/",
   "author": "admin@ljj <1918652173@qq.com>",
   "license": "MIT",
   "private": false,
